@@ -70,26 +70,23 @@ The Questions & Answers module will allow viewing, asking and answering question
 
 ## Questions & Answers Module
 
-### View questions
- - Used ThemeProvider wrapper component from React's Styled-Components library to automatically provide a globalTheme prop to all nested React components.
- - Leveraged global prop with Ternary and Logical && operators to dynamically style specific features.
+### View questions/answers
+ - 
+ - 
 
-![FILLER_theme](https://user-images.githubusercontent.com/64453175/208257058-7636af62-264a-48e5-a965-8eaf58f8d56e.gif)
 
 ### Search for a question/answer based on keyword
- - Used React states to track displayed image, image gallery positions, and selected style.
+ - Dynamically return search result based on keyword entered( > 3 characters)
+ - Created reuseable highlighter component to highlight the search term dynamically using Regular Expression 
 
-![FILLER_StylesGallery](https://user-images.githubusercontent.com/64453175/208256043-d043ba4c-bcb0-48e7-aa50-b05251547cfd.gif)
+### Add a question/answer
+ - Used form to capture all the question info with field validation for email format, name length, photo format, etc. 
+ - Used to create modal window to create customized view 
+ - Upload photo and preview using file, saved photo in server side with middleware Multer to persist photo and show in frontend 
 
-### Asking a question
- - Used React's onMouseMove mouse event to track cursor. Cursor coordinates were obtained via mouse event's pageX and pageY properties.
- - Used cursor coordinates in conjunction with the window's innerHeight and innerWidth properties to create dynamic coordinates that were passed into the Translate CSS function of the Transform CSS property
-
-![FILLER_zoomMode](https://user-images.githubusercontent.com/64453175/208256560-915badca-bd1a-4404-9500-ac536f11b240.gif)
-
-### Answering a question
- - Used React states to track dropdown values.
- - Used localStorage to persist favorites-list through multiple sessions.
+### Vote or Report Question/Answer
+ - Used localstorage to save the user's choice on vote/report 
+ - Increment 
 
 
 # Installation 
