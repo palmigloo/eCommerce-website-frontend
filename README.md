@@ -1,6 +1,25 @@
 
 # Table of Contents 
-You can link to the different sections below
+[Product Description](#product-description)
+
+[Overview](#overview)
+
+- [Product Details](#product-details)
+
+- [Ratings & Reviews](#ratings--reviews)
+
+- [Questions & Answers](#questions--answers)
+
+[Detailed Overview](#detailed-overview)
+
+- [Questions & Answers](#questions--answers)
+
+[Installation](#installation)
+
+[Technologies Used](#technologies-used)
+
+[Team Members](#team-members)
+
 
 
 
@@ -18,7 +37,7 @@ FILLER Co. is proud to present our latest project, a modernized e-commerce inter
 A brief description outlining what the project
 
 
-### PRODUCT DETAILS
+### Product Details
 The Product Details module shows relevant information for a single product in the catalog. Its functionality can be divided into several pieces:
  - Image Gallery
  - Product Information
@@ -31,7 +50,7 @@ The Product Details module shows relevant information for a single product in th
 
 
 
-### RATINGS & REVIEWS
+### Ratings & Reviews
 The Ratings & Reviews module will allow viewing and submission of reviews for the product selected. The functionality contained within this module can be divided into several pieces:
  - Write new review
  - Reviews List
@@ -44,7 +63,7 @@ The Ratings & Reviews module will allow viewing and submission of reviews for th
 </p>
 
 
-### QUESTIONS & ANSWERS 
+### Questions & Answers 
 The Questions & Answers module will allow asking and answering of questions for the product selected. The functionality contained within this module can be divided into several pieces:
   - View questions
   - Search for a question
@@ -57,33 +76,29 @@ The Questions & Answers module will allow asking and answering of questions for 
 
 
 # Detailed Overview 
-A more detailed outline of the project. What does it do? Is there a high level list of features? If describing a project that has visual features, consider adding pictures or animations of the features and functionality in this section. See Adding Screen Captures below.
 
-## Product Details
+## Questions & Answers detailed view
 
-### Theme Selector
+### View questions
  - Used ThemeProvider wrapper component from React's Styled-Components library to automatically provide a globalTheme prop to all nested React components.
  - Leveraged global prop with Ternary and Logical && operators to dynamically style specific features.
 
 ![FILLER_theme](https://user-images.githubusercontent.com/64453175/208257058-7636af62-264a-48e5-a965-8eaf58f8d56e.gif)
 
-### Style Select & Image Gallery
+### Search for a question
  - Used React states to track displayed image, image gallery positions, and selected style.
 
 ![FILLER_StylesGallery](https://user-images.githubusercontent.com/64453175/208256043-d043ba4c-bcb0-48e7-aa50-b05251547cfd.gif)
 
-### Expanded View & Zoom Mode
+### Asking a question
  - Used React's onMouseMove mouse event to track cursor. Cursor coordinates were obtained via mouse event's pageX and pageY properties.
  - Used cursor coordinates in conjunction with the window's innerHeight and innerWidth properties to create dynamic coordinates that were passed into the Translate CSS function of the Transform CSS property
 
 ![FILLER_zoomMode](https://user-images.githubusercontent.com/64453175/208256560-915badca-bd1a-4404-9500-ac536f11b240.gif)
 
-### Dropdowns and Buttons
+### Answering a question
  - Used React states to track dropdown values.
  - Used localStorage to persist favorites-list through multiple sessions.
-
-
-![FILLER_sizeStock](https://user-images.githubusercontent.com/64453175/208256826-aea829ee-3ca1-42de-8800-6e217fa15dd9.gif)
 
 
 # Installation 
@@ -135,12 +150,6 @@ A more detailed outline of the project. What does it do? Is there a high level l
 <a href="https://github.com/svemi"><kbd><img width="175" alt="Sai" src="https://user-images.githubusercontent.com/3084586/208263354-569cfe2c-1ebc-4f14-ac58-68abbf701dc6.png"></kbd></a>
 <a href="https://github.com/kylemartinelli"><kbd><img width="175" alt="Kyle" src="https://user-images.githubusercontent.com/3084586/208263384-b764f421-aee0-44a9-93a5-f1abe3910f24.png"></kbd></a>
 </p>
-
-# Roadmap 
-What future enhancements are planned? What is the current status of the project? Is it being actively maintained?
-
-# License 
-If open source, state how the project is licensed.
 
 
 https://github.com/matiassingers/awesome-readme.
