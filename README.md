@@ -25,7 +25,10 @@
 
 # Project Description
 
-FILLER Co. is proud to present our latest project, a modernized e-commerce interface developed for a fashion and design business. FILLER was tasked with adapting and modernizing our clients outdated retail portal into a sleek and updated site that prioritizes user experience. Sections such as product details, ratings & reviews, and questions & answers have undergone a complete redesign.
+The mission for this project is to create a modernized e-commerce platform that prioritizes user experience for a fashion appereal business. It compose of 3 differents modules as below
+  1) Product details
+  2) Ratings & Reviews 
+  3) Questions & Answers 
 
 # Overview 
 
