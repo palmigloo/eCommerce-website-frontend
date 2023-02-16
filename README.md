@@ -25,33 +25,29 @@
 
 # Project Description
 
-The mission for this project is to create a modernized e-commerce platform that prioritizes user experience for a fashion appereal business. It compose of 3 differents modules as below
-  1) Product details
-  2) Ratings & Reviews 
-  3) Questions & Answers 
+The mission for this project is to create a modernized e-commerce platform that prioritizes user experience for a fashion appereal business. I teamed up with 2 other Software Developer designed and created 3 different modules shown belows: 
+  1) Product details - Sai Vemireddy
+  2) Ratings & Reviews - Kyle Martinelli
+  3) Questions & Answers - Abigail LI
 
 # Overview 
 
 ### Product Details
-The Product Details module shows relevant information for a single product in the catalog. Its functionality can be divided into several pieces:
+The Product Details module shows relevant information for a single product in the catalog. Its functionality can be divided into 3 sections:
  - Image Gallery
  - Product Information
  - Style Selector
- - Add to Cart
 
 <p align="center">
 <img width="748" height="399"  src="https://user-images.githubusercontent.com/64453175/208263735-327471e5-98fd-46fc-9711-3e738d9ff39f.gif">
 </p>
 
 
-
 ### Ratings & Reviews
-The Ratings & Reviews module will allow viewing and submission of reviews for the product selected. The functionality contained within this module can be divided into several pieces:
- - Write new review
+The Ratings & Reviews module will allow viewing and submission of reviews for the product selected. The functionality contained within this module can be divided into  pieces:
+ - Write review
  - Reviews List
  - Sorting 
- - Rating Breakdown
- - Product Breakdown
 
 <p align="center">
 <img width="747" height="532"  src="https://user-images.githubusercontent.com/114783607/208258468-18dc5738-62ee-47a1-81aa-615dc9c27c0a.gif">
@@ -59,11 +55,11 @@ The Ratings & Reviews module will allow viewing and submission of reviews for th
 
 
 ### Questions & Answers 
-The Questions & Answers module will allow asking and answering of questions for the product selected. The functionality contained within this module can be divided into several pieces:
-  - View questions
-  - Search for a question
-  - Asking a question
-  - Answering a question
+The Questions & Answers module will allow viewing, asking and answering questions for the product selected. The functionality contained within this module can be divided into several pieces:
+  - Display questions and answers
+  - Search for questions based on keyword
+  - Asking questions
+  - Answering questions
   
 <p align="center">
 <img width="747" height="532"  src="https://user-images.githubusercontent.com/3084586/208255936-9d4b1bdc-bab0-4f93-98f1-25c165a89ce8.gif">
@@ -80,7 +76,7 @@ The Questions & Answers module will allow asking and answering of questions for 
 
 ![FILLER_theme](https://user-images.githubusercontent.com/64453175/208257058-7636af62-264a-48e5-a965-8eaf58f8d56e.gif)
 
-### Search for a question
+### Search for a question/answer based on keyword
  - Used React states to track displayed image, image gallery positions, and selected style.
 
 ![FILLER_StylesGallery](https://user-images.githubusercontent.com/64453175/208256043-d043ba4c-bcb0-48e7-aa50-b05251547cfd.gif)
