@@ -1,6 +1,6 @@
 
 # Table of Contents 
-[Product Description](#product-description)
+[Project Description](#project-description)
 
 [Overview](#overview)
 
@@ -10,9 +10,9 @@
 
 - [Questions & Answers](#questions--answers)
 
-[Detailed Overview](#detailed-overview)
+[Detailed View](#detailed-view)
 
-- [Questions & Answers](#questions--answers)
+- [Questions & Answers Module](#questions--answers-module)
 
 [Installation](#installation)
 
@@ -23,19 +23,11 @@
 
 
 
-# Product Description
+# Project Description
 
 FILLER Co. is proud to present our latest project, a modernized e-commerce interface developed for a fashion and design business. FILLER was tasked with adapting and modernizing our clients outdated retail portal into a sleek and updated site that prioritizes user experience. Sections such as product details, ratings & reviews, and questions & answers have undergone a complete redesign.
 
-<p align="center">
-<img width="70" alt="Screen Shot 2022-12-09 at 10 42 14 PM" src="https://user-images.githubusercontent.com/64453175/208267640-b1871f6a-e24f-4240-9e11-3e5db89002ce.png">
-</p>
-
-
-
 # Overview 
-A brief description outlining what the project
-
 
 ### Product Details
 The Product Details module shows relevant information for a single product in the catalog. Its functionality can be divided into several pieces:
@@ -75,9 +67,9 @@ The Questions & Answers module will allow asking and answering of questions for 
 </p>
 
 
-# Detailed Overview 
+# Detailed View 
 
-## Questions & Answers detailed view
+## Questions & Answers Module
 
 ### View questions
  - Used ThemeProvider wrapper component from React's Styled-Components library to automatically provide a globalTheme prop to all nested React components.
