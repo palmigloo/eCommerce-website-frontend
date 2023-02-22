@@ -139,5 +139,3 @@ The Questions & Answers module will allow viewing, asking and answering question
 <a href="https://github.com/kylemartinelli"><kbd><img width="175" alt="Kyle" src="https://user-images.githubusercontent.com/3084586/208263384-b764f421-aee0-44a9-93a5-f1abe3910f24.png"></kbd></a>
 </p>
 
-
-https://github.com/matiassingers/awesome-readme.
