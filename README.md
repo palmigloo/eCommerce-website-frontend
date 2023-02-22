@@ -72,12 +72,19 @@ The Questions & Answers module will allow viewing, asking and answering question
 
 ### View questions/answers
  - Dynamically display questions/answers two at a time on clicking
+ - Creation of photo gallery using Modal window to display photos in question/answer 
+ <p align="center">
+ <img width="650" alt="Screen Shot 2023-02-22 at 11 19 52 AM" src="https://user-images.githubusercontent.com/3084586/220744942-a2b1154c-8b43-43a3-897f-163cb71d5d97.png">
+ </p>
+ 
 
 ### Search for a question/answer based on keyword
  - Dynamically return search result based on keyword entered( > 3 characters)
  - Created reuseable highlighter component to highlight the search term dynamically using Regular Expression 
  
+<p align="center">
 <img width="700" alt="Screen Shot 2023-02-22 at 11 19 52 AM" src="https://user-images.githubusercontent.com/3084586/220739094-832d723d-0009-41cb-8f89-ed7a93abc41a.png">
+</p>
 
 ### Add a question/answer
  - Used form to capture all the question info with field validation for email format, name length, photo format, etc. 
