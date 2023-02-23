@@ -70,6 +70,8 @@ The Questions & Answers module will allow viewing, asking and answering question
 
 ## Questions & Answers Module
 
+### Change theme color with useContext
+
 ### View questions/answers
  - Dynamically display questions/answers two at a time on clicking
  - Creation of photo gallery using Modal window to display photos in question/answer 
