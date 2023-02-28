@@ -88,7 +88,7 @@ The Questions & Answers module will allow viewing, asking and answering question
 
 ### Vote or Report Question/Answer
  - Used localstorage to save the user's choice on vote/report 
- - Increment 
+ - Increment vote counts using external API
 
 
 # Installation 
