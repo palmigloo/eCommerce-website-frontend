@@ -66,7 +66,7 @@ The Questions & Answers module will allow viewing, asking and answering question
  - Dynamically display questions/answers two at a time on clicking
  - Creation of photo gallery using Modal window to display photos in question/answer 
  <p align="center">
- <img width="650" alt="Screen Shot 2023-02-22 at 11 19 52 AM" src="https://user-images.githubusercontent.com/3084586/220744942-a2b1154c-8b43-43a3-897f-163cb71d5d97.png">
+ <img width="600" height='410' alt="Screen Shot 2023-02-22 at 11 19 52 AM" src="https://user-images.githubusercontent.com/3084586/220744942-a2b1154c-8b43-43a3-897f-163cb71d5d97.png">
  </p>
  
 
