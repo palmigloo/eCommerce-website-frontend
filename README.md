@@ -83,7 +83,7 @@ The Questions & Answers module will allow viewing, asking and answering question
  - Used to create modal window to create customized view 
  - Upload photo and preview using file, saved photo in server side with middleware Multer to persist photo and show in frontend 
 <p align="center">
-<img width="430" alt="Add an answer form" src="https://user-images.githubusercontent.com/3084586/220739077-deb602e3-0d1a-4fd6-a4c5-c266cf1a10a2.png"> <img width="420" alt="Add an answer form" src="https://user-images.githubusercontent.com/3084586/220738996-e769fa90-1fd1-414f-b3d1-bc0b78d74b64.png"> 
+<img width="420" alt="Add an answer form" src="https://user-images.githubusercontent.com/3084586/220739077-deb602e3-0d1a-4fd6-a4c5-c266cf1a10a2.png"> <img width="410" alt="Add an answer form" src="https://user-images.githubusercontent.com/3084586/220738996-e769fa90-1fd1-414f-b3d1-bc0b78d74b64.png"> 
 </p>
 
 ### Vote or Report Question/Answer
