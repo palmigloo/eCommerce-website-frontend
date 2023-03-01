@@ -74,17 +74,16 @@ The Questions & Answers module will allow viewing, asking and answering question
  - Dynamically return search result based on keyword entered( > 3 characters)
  - Created reuseable highlighter component to highlight the search term dynamically using Regular Expression 
  
-<p align="center">
-<img width="700" alt="Screen Shot 2023-02-22 at 11 19 52 AM" src="https://user-images.githubusercontent.com/3084586/220739094-832d723d-0009-41cb-8f89-ed7a93abc41a.png">
-</p>
+<img width="500" height='400' alt="Screen Shot 2023-02-22 at 11 19 52 AM" src="https://user-images.githubusercontent.com/3084586/220739094-832d723d-0009-41cb-8f89-ed7a93abc41a.png">
+
 
 ### Add a question/answer
  - Used form to capture all the question info with field validation for email format, name length, photo format, etc. 
  - Used to create modal window to create customized view 
  - Upload photo and preview using file, saved photo in server side with middleware Multer to persist photo and show in frontend 
-<p align="center">
-<img width="420" alt="Add an answer form" src="https://user-images.githubusercontent.com/3084586/220739077-deb602e3-0d1a-4fd6-a4c5-c266cf1a10a2.png"> <img width="410" alt="Add an answer form" src="https://user-images.githubusercontent.com/3084586/220738996-e769fa90-1fd1-414f-b3d1-bc0b78d74b64.png"> 
-</p>
+
+  <img width="420" alt="Add an answer form" src="https://user-images.githubusercontent.com/3084586/220739077-deb602e3-0d1a-4fd6-a4c5-c266cf1a10a2.png"> <img width="410" alt="Add an answer form" src="https://user-images.githubusercontent.com/3084586/220738996-e769fa90-1fd1-414f-b3d1-bc0b78d74b64.png"> 
+
 
 ### Vote or Report Question/Answer
  - Used localstorage to save the user's choice on vote/report 
