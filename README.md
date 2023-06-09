@@ -37,12 +37,18 @@ The Product Details module shows relevant information for a single product in th
  - Image Gallery
  - Product Information
  - Style Selector
+<p align="center">
+<img width="748" height="399"  src="https://user-images.githubusercontent.com/64453175/208263735-327471e5-98fd-46fc-9711-3e738d9ff39f.gif">
+</p>
 
 ### Ratings & Reviews
 The Ratings & Reviews module will allow viewing and submission of reviews for the product selected. The functionality contained within this module can be divided into  pieces:
  - Write review
  - Reviews List
  - Sorting 
+ <p align="center">
+<img width="747" height="532"  src="https://user-images.githubusercontent.com/114783607/208258468-18dc5738-62ee-47a1-81aa-615dc9c27c0a.gif">
+</p>
 
 ### Questions & Answers 
 The Questions & Answers module will allow viewing, asking and answering questions for the product selected. The functionality contained within this module can be divided into several pieces:
